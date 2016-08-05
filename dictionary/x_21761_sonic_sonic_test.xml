@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="SONIC_TEST" max_length="40" name="x_21761_sonic_sonic_test" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="List" max_length="4000" name="lsit" type="glide_list"/>
+    </element>
+</database>
